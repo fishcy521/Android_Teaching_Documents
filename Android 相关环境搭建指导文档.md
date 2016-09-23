@@ -2,15 +2,15 @@
 
 ## JAVA 的安装与配置
 
-1. 在 [JAVA官方网站](http://www.oracle.com/technetwork/cn/java/javase/downloads/index.html) 中下载 JDK 安装包 ![java01](pics\java\java01.png)
+1. 在 [JAVA官方网站](http://www.oracle.com/technetwork/cn/java/javase/downloads/index.html) 中下载 JDK 安装包 ![java01](pics\\java\\java01.png)
 2. 安装
-    ![java02](pics\java\java02.png)
+    ![java02](pics\\java\\java02.png)
 3. 安装选项，可以修改默认路径，路径不能出现中文和非法字符
-    ![java03](pics\java\java03.png)
+    ![java03](pics\\java\\java03.png)
 4. 安装 JRE， 建议和JDK在同一个目录
-    ![java05](pics\java\java05.png)
+    ![java05](pics\\java\\java05.png)
 5. 安装成功
-    ![java06](pics\java\java06.png)
+    ![java06](pics\\java\\java06.png)
 6. 配置环境变量
    - 打开 控制面板-系统-高级系统设置 ![java07](pics\java\java07.png)
    - 选择环境变量
