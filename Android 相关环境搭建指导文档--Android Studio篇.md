@@ -43,10 +43,10 @@
 
   点击Next后将进行卸载
 
-   ![studio002](pics\Android\studio002.png)
+   ![studio002](pics/Android/studio002.png)
 
   当卸载完成后， 会进行一部分资源的再次安装/下载
 
-  ![studio003](pics\Android\studio003.png)
+  ![studio003](pics/Android/studio003.png)
 
   等待下载完成后即可正常使用。
