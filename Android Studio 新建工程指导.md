@@ -16,27 +16,27 @@
 
 4. 下一步后的相关选项
 
-   ![Studio013](pics/Studio\Studio013.png)
+   ![Studio013](pics/Studio/Studio013.png)
 
-5. 选择一个Activity ![Studio014](pics/Studio\Studio014.png)
+5. 选择一个Activity ![Studio014](pics/Studio/Studio014.png)
 
 6. 新建Activity的相关选项
 
-   ![Studio015](pics/Studio\Studio015.png)
+   ![Studio015](pics/Studio/Studio015.png)
 
    点击Finish后开始构建项目
 
 7. 项目构建中
 
-   ![Studio010 (7)](pics/Studio\Studio016.png)
+   ![Studio010 (7)](pics/Studio/Studio016.png)
 
 8. Android Studio 工程界面
 
-   ![Studio010 (8)](pics/Studio\Studio017.png)
+   ![Studio010 (8)](pics/Studio/Studio017.png)
 
 9. 项目构建完成
 
-   ![Studio018](pics/Studio\Studio018.png)
+   ![Studio018](pics/Studio/Studio018.png)
 
 
 
